@@ -1,0 +1,6 @@
+# arquivo abaixo
+todo.txt
+# pasta ou diretório
+tmp/
+# se quisermos ignorar todos os arquivos de uma pasta basta digitar: nomedapasta/*.extensãodoarquivo, ex: imagens/*.jpg 
+
